@@ -3,4 +3,4 @@ HEAD/ >>>>>>>>>>>>>>>hola ediosngfgddsfd
 =======
 >>>>>>> soy un chico en la u.
 
->>>>>>>mi primer proyecto subido por git
+>>>>>>>mi primer proyecto subido por git.
